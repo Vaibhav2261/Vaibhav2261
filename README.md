@@ -12,13 +12,13 @@
   <a href="mailto:swcric226@gmail.com" target="_blank" rel="noopener noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/512px-Gmail_icon_%282020%29.svg.png" width="50" height="40" alt="gmail" />
   </a>
-  <a href="https://instagram.com/vaibhav_015" target="blank" rel="noopener noreferrer">
+  <a href="https://instagram.com/vaibhav_015"  rel="noopener noreferrer">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" width="50" height="50" />
 </a>
   <a href="https://www.leetcode.com/vaibhav226" target="_blank" rel="noopener noreferrer">
     <img src="https://cdn.iconscout.com/icon/free/png-256/free-leetcode-logo-icon-download-in-svg-png-gif-file-formats--technology-social-media-vol-4-pack-logos-icons-2944960.png?f=webp" width="50" alt="LeetCode"/>
   </a>
-  <a href="https://codeforces.com/profile/vaibhav226" target="blank" rel="noopener noreferrer">
+  <a href="https://codeforces.com/profile/vaibhav226"  rel="noopener noreferrer">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="codeforces" width="50" height="50" />
 </a>
 </div>
