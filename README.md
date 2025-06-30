@@ -7,7 +7,7 @@
 
 <div align="center">
 <a href="swcric226gmail.com" target="blank" rel="noopener noreferrer">
-    <img src="https://pngate.com/wp-content/uploads/2025/03/gmail-logo-app-icon-rounded-1.png" width="50" alt="Gmail" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/512px-Gmail_icon_%282020%29.svg.png" width="50" alt="Gmail" />
 </a>
 <a href="https://linkedin.com/in/vaibhav-singh-801b95287" target="blank" rel="noopener noreferrer">
     <img src="https://cdn1.iconfinder.com/data/icons/social-links/382/linkedin-512.png" width="50" alt="LinkedIn" />
