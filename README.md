@@ -13,13 +13,13 @@
     <img src="https://cdn1.iconfinder.com/data/icons/social-links/382/linkedin-512.png" width="50" alt="LinkedIn" />
 </a>
 <a href="https://instagram.com/vaibhav_015" target="blank" rel="noopener noreferrer">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vaibhav_015" width="50" />
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vaibhav_015" width="40" />
 </a>
 <a href="https://codeforces.com/profile/vaibhav226" target="blank" rel="noopener noreferrer">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="vaibhav226" width="50" />
 </a>
 <a href="https://www.leetcode.com/vaibhav226" target="blank" rel="noopener noreferrer">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vaibhav226" width="50" />
+  <img align="center" src="https://cdn.iconscout.com/icon/free/png-256/free-leetcode-logo-icon-download-in-svg-png-gif-file-formats--technology-social-media-vol-4-pack-logos-icons-2944960.png?f=webp" alt="vaibhav226" width="40" />
 </a>
 </div>
 
