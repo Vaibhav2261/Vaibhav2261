@@ -5,14 +5,9 @@
 <h2 align="center">A passionate developer with a deep interest in AI/ML.</h2>
 
 
-
-- 📫 How to reach me **swcric226@gmail.com**
-
-
-
 <div align="center">
 <a href="swcric226gmail.com" target="blank" rel="noopener noreferrer">
-    <img src="https://www.vecteezy.com/png/22613021-google-mail-gmail-icon-logo-symbol" width="50" alt="Gmail" />
+    <img src="https://pngate.com/wp-content/uploads/2025/03/gmail-logo-app-icon-rounded-1.png" width="50" alt="Gmail" />
 </a>
 <a href="https://linkedin.com/in/vaibhav-singh-801b95287" target="blank" rel="noopener noreferrer">
     <img src="https://cdn1.iconfinder.com/data/icons/social-links/382/linkedin-512.png" width="50" alt="LinkedIn" />
