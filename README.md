@@ -24,6 +24,5 @@
 <div style="display: flex; justify-content: space-between; width: 100%; margin-bottom: 20px;">
   <p style="width: 48%;"><img align="left" src="https://github-readme-stats.vercel.app/api?username=vaibhav2261&show_icons=true&locale=en" alt="vaibhav2261" /></p>
   <p style="width: 48%;"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vaibhav2261&show_icons=true&locale=en&layout=compact" alt="vaibhav2261" /></p>
-  <p style="width: 48%;"><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=vaibhav2261&" alt="vaibhav2261" /></p>
 
 </div>
