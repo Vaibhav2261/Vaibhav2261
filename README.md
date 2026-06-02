@@ -2,7 +2,7 @@
   <img src="https://sdmntprpolandcentral.oaiusercontent.com/files/00000000-bbc8-620a-afb5-c206a14f8b5e/raw?se=2025-06-30T05%3A35%3A40Z&sp=r&sv=2024-08-04&sr=b&scid=87c8bfae-2344-5495-a3c4-6fbebf143142&skoid=0da8417a-a4c3-4a19-9b05-b82cee9d8868&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-06-29T18%3A34%3A18Z&ske=2025-06-30T18%3A34%3A18Z&sks=b&skv=2024-08-04&sig=D%2B04K7hQf2UUnJUoldYOabt1%2BQCokRkVTOmd3WRMMqE%3D" alt="AI/ML Enthusiast Image" style="max-width: 100%; height="90%": auto;" />
 </div>
 <h1 align="center">Hi there👋, I'm Vaibhav Singh</h1>
-<h2 align="center">A passionate developer with a deep interest in AI/ML.</h2>
+<h2 align="center">A passionate Software Developer with a deep interest in AI/ML.</h2>
 
 
 <div align="center">
